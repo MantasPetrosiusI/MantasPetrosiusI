@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantaspetrosiusi&label=Profile%20views&color=0e75b6&style=flat" alt="mantaspetrosiusi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantaspetrosiusi" alt="mantaspetrosiusi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imantaspetrosiu" target="blank"><img src="https://img.shields.io/twitter/follow/imantaspetrosiu?logo=twitter&style=for-the-badge" alt="imantaspetrosiu" /></a> </p>
-
 - 🌱 I’m currently studying at EPICODE's **Full-Stack Developer course**
 
 - 👨‍💻 All of my projects are available at [http://github.com/MantasPetrosiusI](http://github.com/MantasPetrosiusI)
