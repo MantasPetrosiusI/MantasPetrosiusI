@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantaspetrosiusi&label=Profile%20views&color=0e75b6&style=flat" alt="mantaspetrosiusi" /> </p>
 
-- 🌱 I’m currently studying at EPICODE's **Full-Stack Developer course**
-
 - 👨‍💻 All of my projects are available at [http://github.com/MantasPetrosiusI](http://github.com/MantasPetrosiusI)
 
 - 💬 Ask me about **React, ExpressJS, NodeJS, MongoDB, PostgreSQL, JavaScript, TypeScript and other FS Developer skills.**
